@@ -1,8 +1,24 @@
  Application
 
-## Challenge: Cryptocurrency Wallet
+## Solution: Cryptocurrency Wallet
 
-![alt=” ”](Images/19-4-challenge-image.png)
+<!-- ![alt=” ”](Images/19-4-challenge-image.png) -->
+To solve this challenge I used <a href= 'https://www.trufflesuite.com/ganache'>Ganache</a> to test my Solidity contracts and <a href='https://streamlit.io/' >Streamlit</a> for the front end user experience.  In order to run this application, you would need an instance of Ganache on your computer and save the Mnemonic provided by Ganache into the .env file.
+
+The provided pictures show the final app and the Transactions in Ganache that took place.
+
+### Blockchain App with a transaction that has occured:
+<img src="Images/Wallet-Blockchain_App_w_Transaction.png" alt="Blockchain App with Transaction">
+
+### Transaction history with Ganache:
+<img src="Images/Wallet-Ganache_Tx_History.png" alt="Transaction history as shown in Ganache">
+
+### Transaction details with Ganache:
+<img src="Images/Wallet-Ganache_Block_3_Details.png" alt="Transaction details as shown in Ganache">
+
+---
+
+## Challenge: Cryptocurrency Wallet
 
 ### Background
 
@@ -174,6 +190,4 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 To submit your assignment, click Submit, and then provide the URL of your GitHub repository for grading.
 
-> **Note** You are allowed to miss up to two homework assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Submit, and then indicate you are skipping by typing “I choose to skip this assignment” in the text box.
 
-Comments are disabled for graded submissions in BootCamp Spot. If you have questions about your feedback, please notify your instructional staff or your Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Resubmit Assignment button to upload new links.  You may resubmit up to three times for a total of four submissions.
